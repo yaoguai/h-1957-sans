@@ -3,8 +3,8 @@ H-1957 Sans
 
 H-1957 Sans is a fork of the Nimbus Sans L fonts. The fonts have been converted
 from Type 1 fonts to FontForge SFD, and expanded to include all necessary
-glyphs for romanized Chinese, Pali, and Sanskrit. No new glyphs have been drawn
-in order to preserve the original quality of the font.
+glyphs added for romanized Chinese, Pali, and Sanskrit. No new glyphs have been
+drawn, to ensure that the original quality of the font is preserved.
 
 Build scripts are included for generating common font formats such as TTF,
 WOFF, and WOFF2. The fonts are auto-hinted with ttfautohint. Scripts are also
@@ -14,11 +14,10 @@ as web fonts.
 Nimbus Sans L is a take on the classic 1957 san-serif typeface Helvetica, as
 produced by German type foundry URW++. Several faces of Nimbus Sans L were
 donated by URW++ to the GhostScript project, which aims at a free
-implementation of the PostScript standard.
-
-Although Nimbus San L was issued by URW++, the actual font sources were from
-Adobe. As a result, Adobe Helvetica, Linotype Helvetica, URW Nimbus Sans L, and
-H-1957 Sans all basically look the same.
+implementation of the PostScript standard. Although Nimbus San L was issued by
+URW++, the actual font sources were from Adobe. As a result, Adobe Helvetica,
+Linotype Helvetica, URW Nimbus Sans L, and H-1957 Sans all basically look the
+same.
 
 ## Provenance
 
