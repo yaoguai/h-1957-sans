@@ -1,8 +1,8 @@
 *~
 dist/
-.swp
-.eot
-.otf
-.ttf
-.woff
-.woff2
+*.swp
+*.eot
+*.otf
+*.ttf
+*.woff
+*.woff2
