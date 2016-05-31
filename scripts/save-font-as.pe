@@ -1,0 +1,4 @@
+#!/usr/bin/env fontforge
+Open($1)
+Save($2)
+Close()

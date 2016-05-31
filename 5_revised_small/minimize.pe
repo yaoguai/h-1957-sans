@@ -1,0 +1,17 @@
+#!/usr/bin/env fontforge
+Open($1);
+
+# Greek and Coptic
+Select(0x0370, 0x03ff);
+Clear();
+
+# Cyrillic and Cyrillic Supplement
+Select(0x0400, 0x052f);
+Clear();
+
+# Box Drawing, Block Elements, Geometric Shapes, Miscellaneous Symbols
+Select(0x2500, 0x26ff);
+Clear();
+
+Save($1);
+Close();
